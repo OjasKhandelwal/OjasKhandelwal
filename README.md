@@ -15,16 +15,6 @@ Machine Learning • Deep Learning • Computer Vision • Research • Geoscien
 
 <hr>
 
-<h3 align="center">Connect with Me</h3>
-
-<p align="center">
-  <a href="https://www.topcoder.com/members/303007" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="40" />
-  </a>
-</p>
-
-<hr>
-
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
